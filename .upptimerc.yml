@@ -23,7 +23,7 @@ status-website:
     - title: Status
       href: /
     - title: Support
-      href: mailto:support@floridaque.org
+      href: mailto:technology@floridaque.org
   customCss: |
     :root {
       --body-background-color: #f8f7fc;
