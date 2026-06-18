@@ -1,0 +1,20 @@
+[
+  {
+    "name": "FSO Reporting Platform",
+    "url": "https://reports.floridaque.org",
+    "icon": "https://icons.duckduckgo.com/ip3/reports.floridaque.org.ico",
+    "slug": "fso-reporting-platform",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2018,
+    "timeDay": 2018,
+    "timeWeek": 2018,
+    "timeMonth": 2018,
+    "timeYear": 2018,
+    "dailyMinutesDown": {}
+  }
+]
