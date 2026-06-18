@@ -1,3 +1,6 @@
+# Patches the published gh-pages theme CSS with the FSO purple/gold brand
+# palette after each Static Site CI build (this Upptime version does not
+# apply .upptimerc.yml customCss to the build output).
 name: Apply Brand Theme
 
 on:
