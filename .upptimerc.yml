@@ -1,0 +1,47 @@
+owner: FSO-IT
+repo: systems-status
+
+user-agent: fso-it-status
+
+sites:
+  - name: FSO Reporting Platform
+    url: https://reports.floridaque.org
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 10000
+
+assignees:
+  - willmadison
+
+status-website:
+  cname: status.floridaque.org
+  name: FSO Web & Technology Service Status
+  logoUrl: https://images.squarespace-cdn.com/content/v1/65da0ea936a2915f57b8afa2/72a240d7-c900-440a-b0ac-9d96ab913680/FSO_Logo_2024-removebg-preview.png?format=1500w
+  introTitle: "FSO Web & Technology Service Status"
+  introMessage: "Current availability and service health for FSO member-facing platforms and APIs."
+  navbar:
+    - title: Status
+      href: /
+    - title: Support
+      href: mailto:support@floridaque.org
+  customCss: |
+    :root {
+      --body-background-color: #f8f7fc;
+      --body-text-color: #1a1a2e;
+      --card-background-color: #ffffff;
+      --card-border-color: #e5e0f0;
+      --nav-background-color: #2E1E4A;
+      --nav-border-bottom-color: #FCBA00;
+      --nav-current-border-bottom-color: #FCBA00;
+      --up-border-left-color: #16a34a;
+      --tag-up-background-color: #16a34a;
+      --tag-color: #ffffff;
+      --down-border-left-color: #dc2626;
+      --down-background-color: #fee2e2;
+      --tag-down-background-color: #dc2626;
+      --degraded-border-left-color: #d97706;
+      --tag-degraded-background-color: #d97706;
+      --change-background-color: #FCBA00;
+    }
+    nav a { color: #FCBA00 !important; }
+    nav .logo div { color: #ffffff !important; }
