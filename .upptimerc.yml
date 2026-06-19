@@ -9,6 +9,11 @@ sites:
     expectedStatusCodes:
       - 200
     maxResponseTime: 10000
+  - name: FSO Life Membership Platform
+    url: https://membership.floridaque.org
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 10000
 
 assignees:
   - willmadison
