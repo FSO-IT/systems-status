@@ -4,35 +4,39 @@
     "url": "https://reports.floridaque.org",
     "icon": "https://icons.duckduckgo.com/ip3/reports.floridaque.org.ico",
     "slug": "fso-reporting-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3753,
-    "timeDay": 232,
-    "timeWeek": 3228,
-    "timeMonth": 4490,
-    "timeYear": 3753,
-    "dailyMinutesDown": {}
+    "time": 3696,
+    "timeDay": 186,
+    "timeWeek": 2842,
+    "timeMonth": 4354,
+    "timeYear": 3696,
+    "dailyMinutesDown": {
+      "2026-08-16": 0
+    }
   },
   {
     "name": "FSO Life Membership Platform",
     "url": "https://membership.floridaque.org",
     "icon": "https://icons.duckduckgo.com/ip3/membership.floridaque.org.ico",
     "slug": "fso-life-membership-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2245,
-    "timeDay": 239,
-    "timeWeek": 936,
-    "timeMonth": 2189,
-    "timeYear": 2245,
-    "dailyMinutesDown": {}
+    "time": 2210,
+    "timeDay": 196,
+    "timeWeek": 838,
+    "timeMonth": 2125,
+    "timeYear": 2210,
+    "dailyMinutesDown": {
+      "2026-08-16": 0
+    }
   }
 ]
