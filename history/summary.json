@@ -6,15 +6,15 @@
     "slug": "fso-reporting-platform",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.75%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 3591,
-    "timeDay": 182,
-    "timeWeek": 2557,
+    "time": 3619,
+    "timeDay": 5512,
+    "timeWeek": 2558,
     "timeMonth": 4228,
-    "timeYear": 3591,
+    "timeYear": 3619,
     "dailyMinutesDown": {
       "2026-08-16": 18
     }
@@ -26,15 +26,15 @@
     "slug": "fso-life-membership-platform",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.76%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 2148,
-    "timeDay": 227,
-    "timeWeek": 764,
-    "timeMonth": 2069,
-    "timeYear": 2148,
+    "time": 2169,
+    "timeDay": 3522,
+    "timeWeek": 752,
+    "timeMonth": 2038,
+    "timeYear": 2169,
     "dailyMinutesDown": {
       "2026-08-16": 18
     }
